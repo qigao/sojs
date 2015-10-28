@@ -6,5 +6,5 @@ Words below are mainly for me. it reminds me the days I still have passions.
 insistant that OO stil very powerful. as they're .Net and JS programmers, so there was this idea, but the truth is I just read some paper on lambda calculation,
 and I still remember the conclusion FP equals Turing, at that time I was reading lots of books regarding compilers,  trying to code some tools based on compilers.
 
-it took me a week for the basic lib and some other days for the GOF design patterns. 
+it took me a week for the basic lib and some other days to implement the GOF design patterns with this sugar. 
 
