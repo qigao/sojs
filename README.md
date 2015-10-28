@@ -8,3 +8,4 @@ and I still remember the conclusion FP equals Turing, at that time I was reading
 
 it took me a week for the basic lib and some other days to implement the GOF design patterns with this sugar. 
 
+the lib tested on both v8shell and firefox shell on windows7.
